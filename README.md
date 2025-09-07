@@ -1,4 +1,4 @@
-# SQL Data Warehouse (SQL Server)
+# DataWarehouse360 (SQL Server)
 
 A practical, end-to-end SQL Server data warehouse showcasing Medallion Architecture (Bronze/Silver/Gold), ETL pipelines, dimensional modeling, and analytics. Inspired by `Abhayyyy0/SQL-data-warehouse`.
 
