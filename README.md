@@ -15,10 +15,10 @@ A practical, end-to-end SQL Server data warehouse showcasing Medallion Architect
 
 ## Getting Started
 1. Create a new SQL Server database, e.g. `DW_Sales`
-2. Create schemas for each layer:
+2. Create schemas for each layer: bronze , silver , gold 
+3. Access the data through 'datasets' folder in the repositary
    ```sqlRD
 
-> If using the original repo online, these folders already exist there. Mirror them locally as needed.
 
 ## Medallion Architecture
 - **Bronze**: Raw tables as-is from sources; minimal typing; append-only loads
