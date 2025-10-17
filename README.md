@@ -1,7 +1,6 @@
 # DataWarehouse360 (SQL Server)
 
-A practical, end-to-end SQL Server data warehouse showcasing Medallion Architecture (Bronze/Silver/Gold), ETL pipelines, dimensional modeling, and analytics. Inspired by `Abhayyyy0/SQL-data-warehouse`.
-
+A practical, end-to-end SQL Server data warehouse showcasing Medallion Architecture (Bronze/Silver/Gold), ETL pipelines, dimensional modeling, and analytics. 
 ### Key Features
 - **Medallion Layers**: Raw ingestion (Bronze), cleaned/standardized (Silver), star schema for BI (Gold)
 - **ETL Pipelines**: Repeatable SQL scripts for loading, transforming, and modeling
